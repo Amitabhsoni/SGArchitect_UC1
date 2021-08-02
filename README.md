@@ -21,8 +21,14 @@ Please find the below instruction in order to create the user case for SGArchite
 1.Login page (fornt end part using HTML tags/elements,CSS).
 
 2.write (2 functions for login and registering the user)
+
+
   2.1 : for login fucntion use hardcoded value as pwd and write a condition for it.
+  
+  
   2.2 : for registration check the condition if user is already registered then exit the fucntion with Alert box msg "User is already regsitered! Please Sign In"
+  
+  
   2.3 : if user is not present make a entry of it and give Alert box msg "User registered Successfully!".
   
   
